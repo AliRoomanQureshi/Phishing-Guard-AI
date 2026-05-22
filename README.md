@@ -1,5 +1,5 @@
-PhishGuard AI — Real-time Phishing Detection Engine
-Overview
+**PhishGuard AI — Real-time Phishing Detection Engine
+**Overview
 PhishGuard AI is an advanced, real-time phishing URL detection engine developed at FAST NUCES Karachi. It identifies malicious domains by analyzing structural characteristics, lexical patterns, and heuristic behaviors without relying on slow network loop-backs (like WHOIS or traffic rankings).
 
 The application integrates an ensemble artificial intelligence engine wrapping a Random Forest Classifier and a Bidirectional Long Short-Term Memory (LSTM) network, demystified by SHAP Explainable AI.
